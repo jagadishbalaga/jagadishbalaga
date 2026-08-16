@@ -54,17 +54,5 @@ Designed and fabricated a gearless power transmission system using link mechanis
 
 ---
 
-### 🎓 Education
-
-| Degree | Institution | Score | Year |
-|---|---|---|---|
-| B.Tech, Mechanical Engineering | Rayagada Institute of Technology and Management (BPUT, Odisha) | 79% | 2025 |
-| Diploma, Mechanical Engineering | Balaji Institute of Technology & Science, Gunupur | 88.53% | 2021 |
-| SSC | Govt. U.G. High School, Vanna | 40.83% | 2018 |
-
----
-
-### 🌐 Languages
-Telugu · English
 
 <p align="center"><i>💼 Open to Data Analyst opportunities — let's connect!</i></p>
