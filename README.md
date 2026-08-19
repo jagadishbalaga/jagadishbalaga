@@ -17,10 +17,10 @@
 
 I'm a detail-oriented B.Tech graduate transitioning into **Data Analytics**, with a strong foundation in engineering problem-solving. I enjoy turning raw data into clear, actionable insights using Python, SQL, and BI tools — and I bring the same discipline and precision from my mechanical engineering background to every dataset I work with.
 
-- 🔭 Currently strengthening my skills in **Python, SQL, Power BI, and Tableau**
+- 🔭 Currently strengthening my skills in **Python, SQL, Power BI, Excel and Tableau**
 - 🌱 Learning data cleaning, EDA, and dashboarding best practices
 - 💼 Open to **entry-level Data Analyst** opportunities
-- 🎓 B.Tech in Mechanical Engineering, Biju Patnaik University of Technology (2025)
+- 🎓 B.Tech in Mechanical Rayagada institute of Technology and Management (2025)
 - 📫 Reach me at **Jagadishbalaga52@gmail.com**
 
 ---
