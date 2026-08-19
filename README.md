@@ -49,9 +49,6 @@ Data Cleaning · Data Wrangling · Exploratory Data Analysis (EDA) · Statistica
 **📊 Retail Sales Data Analysis** — *Python, Pandas, MS Excel*
 Cleaned and preprocessed a 10,000-row retail sales dataset to handle missing values, duplicates, and inconsistent formatting. Performed EDA to identify top-performing products, seasonal sales trends, and regional performance patterns. Built pivot tables and interactive charts in Excel to visualize KPIs and support data-driven inventory and sales decisions.
 
-**⚙️ Gearless Transmission System** — *Mechanical Design Project*
-Designed and fabricated a gearless power transmission system using link mechanisms and angular motion principles to transfer rotary motion between shafts at right angles. Demonstrated reduced noise and low maintenance compared to conventional gear systems, with testing and troubleshooting for stable load transmission.
-
 ---
 
 
