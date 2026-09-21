@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balaga Jagadish</h1>
-<h3 align="center">Aspiring Data Analyst | Mechanical Engineering Graduate</h3>
+<h3 align="center">Aspiring Data Analyst | Data Science</h3>
 
 <p align="center">
   <a href="mailto:Jagadishbalaga52@gmail.com">
@@ -15,11 +15,11 @@
 
 ### 🎯 About Me
 
-I'm a detail-oriented B.Tech graduate transitioning into **Data Analytics**, with a strong foundation in engineering problem-solving. I enjoy turning raw data into clear, actionable insights using Python, SQL, and BI tools — and I bring the same discipline and precision from my mechanical engineering background to every dataset I work with.
+I'm a detail-oriented B.Tech graduate transitioning into **Data Analytics | Data Science**, with a strong foundation in engineering problem-solving. I enjoy turning raw data into clear, actionable insights using Python, SQL, and BI tools — and I bring the same discipline and precision from my mechanical engineering background to every dataset I work with.
 
-- 🔭 Currently strengthening my skills in **Python, SQL, Power BI, Excel and Tableau**
+- 🔭 Currently strengthening my skills in **Python, SQL, Power BI, Excel and Tableau Machine Learning**
 - 🌱 Learning data cleaning, EDA, and dashboarding best practices
-- 💼 Open to **entry-level Data Analyst** opportunities
+- 💼 Open to **entry-level Data Analyst and Data Science** opportunities
 - 🎓 B.Tech in Mechanical Rayagada institute of Technology and Management (2025)
 - 📫 Reach me at **Jagadishbalaga52@gmail.com**
 
@@ -39,6 +39,9 @@ I'm a detail-oriented B.Tech graduate transitioning into **Data Analytics**, wit
 **Core Competencies**
 Data Cleaning · Data Wrangling · Exploratory Data Analysis (EDA) · Statistical Analysis · Report Generation · Business Intelligence
 
+**Machine Learning**
+Scikit-learn — Linear Regression, Logistic Regression, Decision Trees, Random Forest, KNN, SVM, K-Means, XGBoost
+
 **Other Tools**
 `MS Word` `MS PowerPoint` `Google Sheets`
 
@@ -52,4 +55,4 @@ Cleaned and preprocessed a 10,000-row retail sales dataset to handle missing val
 ---
 
 
-<p align="center"><i>💼 Open to Data Analyst opportunities — let's connect!</i></p>
+<p align="center"><i>💼 Open to Data Analyst | Data Science opportunities — let's connect!</i></p>
